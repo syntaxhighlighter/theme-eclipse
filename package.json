@@ -1,5 +1,5 @@
 {
-  "name": "syntaxhighlighter-theme-eclipse",
+  "name": "theme-eclipse",
   "version": "4.0.0",
   "description": "Eclipse theme for SyntaxHighlighter.",
   "keywords": [
@@ -30,7 +30,7 @@
     "grunt-contrib-sass": "^0.8.1",
     "mocha": "^1.20.1",
     "node-sass": "^0.9.3",
-    "syntaxhighlighter-theme-base": "syntaxhighlighter/theme-base"
+    "theme-base": "syntaxhighlighter/theme-base"
   },
   "engines": {
     "node": ">=0.10.0",
