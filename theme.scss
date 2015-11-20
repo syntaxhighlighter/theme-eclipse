@@ -30,7 +30,7 @@ $code_color1                  : gray !default;
 $code_color2                  : #ff1493 !default;
 $code_color3                  : red !default;
 
-@import "theme.scss";
+@import "theme-base.scss";
 
 .syntaxhighlighter {
   .keyword { font-weight: bold !important; }
