@@ -1,5 +1,5 @@
 {
-  "name": "theme-eclipse",
+  "name": "@alexgorbatchev/theme-eclipse",
   "version": "4.0.0",
   "description": "Eclipse theme for SyntaxHighlighter.",
   "keywords": [
