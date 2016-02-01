@@ -2,11 +2,11 @@
 
 Eclipse theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter). This module only contains CSS.
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-eclipse.svg)](https://travis-ci.org/alexgorbatchev/theme-eclipse)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-eclipse.svg)](https://travis-ci.org/syntaxhighlighter/theme-eclipse)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-eclipse
+    npm install @alexgorbatchev/theme-eclipse
 
 ## Testing
 
