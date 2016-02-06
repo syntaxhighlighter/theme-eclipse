@@ -7,6 +7,8 @@
 
 Eclipse theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter). This module only contains CSS.
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ```
